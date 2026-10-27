@@ -1,1 +1,1 @@
-# BloxNote-Intel-Hub
+# BloxNote-IntelHub
